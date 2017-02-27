@@ -1,2 +1,3 @@
 1. Create a git repo locally
-2. make a new repo on github with the exact same name as your git repo locally
+2. Make a new repo on github with the exact same name as your git repo locally
+3. Copy commands to connect local repo to github
